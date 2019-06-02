@@ -3,5 +3,9 @@ Toda aplicación en NodeJS deberá cumplir con las siguientes especificaciones a
 
 ## Estandares
 
-* [Estructura](estructura/README.md)
-* [Control de Versiones](control-versiones/README.md)
+* [Estructura](estructura.md)
+* [Nomenclatura de nombres](nomenclaturaName.md)
+
+## Framework
+NodeJS posee una variedad de frameworks, uno de los más conocido sería Express
+* [Express](https://expressjs.com/)
