@@ -9,4 +9,4 @@ Existen diferentes controladores de versiones, entro los más populares podemos 
 ## Archivos Ignorados
 Según nuestro lenguaje hay ciertos archivos que se deben evitar subir a un repositorio ya sea porque sea privado para un desarrollador en concreto y no lo necesiten (o lo deban) conocer el resto de las personas.
 
-[NodeJS](NodeIgnore.md)
+* [NodeJS](NodeIgnore.md)
