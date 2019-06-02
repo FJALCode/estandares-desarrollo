@@ -1,3 +1,7 @@
+## Archivos Ignorados
+Archivos basicos comunmente a ignorar en un proyecto de NodeJS
+
+```
 # Logs
 logs
 *.log
@@ -59,3 +63,5 @@ typings/
 
 # next.js build output
 .next
+
+```
