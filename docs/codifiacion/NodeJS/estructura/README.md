@@ -1,8 +1,6 @@
-#NODE JS
-## DESCRIPCIÓN
-Toda aplicación en NodeJS deberá cumplir con las siguientes especificaciones a fin de poder seguir un parametro adecuado para su desarrollo.
+## Estructura Base
+La estructura base de un proyecto de NodeJS es la siguiente:
 
-### Estructura Base
 ```
 .
 ├── db                      //Carpeta donde se encuentran los scripts de base de datos a correr.
@@ -35,14 +33,14 @@ Toda aplicación en NodeJS deberá cumplir con las siguientes especificaciones a
 ```
 
 
-### Documentación
+## Documentación
 Todo código fuente debe estar perfectamente documentado 
 
 ```
-│   ├── src             //Código fuente
-│   │   ├── Gruntfile   //Archivo que contiene las rutinas para generar la documentación automaticamente.
-│   │   ├── _apidoc.js  //Archivo que contiene la documentación de versiones viejas del api.
-│   │   ├── apidoc.json //Archivo de configuración de la herramienta apiDoc para generar documentación de apis. 
+├── src             //Código fuente
+│   ├── Gruntfile   //Archivo que contiene las rutinas para generar la documentación automaticamente.
+│   ├── _apidoc.js  //Archivo que contiene la documentación de versiones viejas del api.
+│   ├── apidoc.json //Archivo de configuración de la herramienta apiDoc para generar documentación de apis. 
 ```                
 
 
