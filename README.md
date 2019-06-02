@@ -5,15 +5,19 @@ Documentación general, estructuras y pautas a tomar en consideración para la c
 
 * **Estandares Generales**
     * [Controlador de Versiones](docs/estandares-generales/control-versiones/README.md)
-    * [Documentación](docs/estandares-generales/documentacion/README.md)
+    * [Documentación](docs/estandares-generales/documentacion.md)
 
 * **Codificación**
     * [NodeJS](docs/codificacion/NodeJS/README.md)
 
 * **Proyecto**
-    * [README](docs/proyecto/readme/README.md)
+    * [README](docs/proyecto/proyecto.md)
 
 Es importante recordar que **_"El cumplimiento de unos estándares es directamente proporcional a la calidad del software desarrollado"_**
+
+## Versión
+
+**1.0.0**
 
 ## Autores
 

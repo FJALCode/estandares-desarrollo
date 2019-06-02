@@ -3,10 +3,10 @@ Un controlador de versiones es un sistema que nos permite guardar un registro de
 
 ## Controladores de Versiones
 Existen diferentes controladores de versiones, entro los más populares podemos encontrar.
-* [Git](git/README.md)
+* [Git](git.md)
 
 
 ## Archivos Ignorados
 Según nuestro lenguaje hay ciertos archivos que se deben evitar subir a un repositorio ya sea porque sea privado para un desarrollador en concreto y no lo necesiten (o lo deban) conocer el resto de las personas.
 
-[NodeJS](ignore-file/NodeJS/README.md)
+* [NodeJS](NodeIgnore.md)
