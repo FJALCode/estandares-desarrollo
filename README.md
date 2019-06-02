@@ -14,9 +14,12 @@ Documentación general, estructuras y pautas a tomar en consideración para la c
 
 Es importante recordar que **_"El cumplimiento de unos estándares es directamente proporcional a la calidad del software desarrollado"_**
 
-## Autor
+## Autores
 
-* **Fernando Antúnez** - *Trabajo Inicial* - [FJALCode](https://github.com/FJALCode)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+[<img src="https://avatars2.githubusercontent.com/u/48934580?s=460&v=4" width="100px;"/><br /><sub><b>Fernando Antúnez</b></sub>](https://github.com/FJALCode)<br />[💻](https://github.com/FJALCode "Code") [📢](#talk-Meabed "Talks") 
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Licencia
 
