@@ -1,6 +1,7 @@
 # Estandares de Desarrollo
-## Descricpión
 Documentación general, estructuras y pautas a tomar en consideración para la creación de proyectos
+
+## Estandares
 
 * **Estandares Generales**
     * [Controlador de Versiones](docs/estandares-generales/control-versiones/README.md)
