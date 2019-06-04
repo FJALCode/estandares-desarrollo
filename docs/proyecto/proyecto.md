@@ -79,12 +79,10 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
-## Autores ✒️
+## Autores
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+| [<img src="https://avatars2.githubusercontent.com/u/48934580?s=460&v=4" width="100px;"/><br /><sub><b>Fernando Antúnez</b></sub>](https://github.com/FJALCode)<br />[💻](https://github.com/FJALCode "Code") [📢](#talk-Meabed "Talks") | [<img src="http://organizacionmundialdelexito.com/op/wp-content/uploads/2014/04/programador.jpeg" width="100px;"/><br /><sub><b>XXXXX</b></sub>](https://github.com/FJALCode) |
+| :---: | :---: |
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
@@ -99,4 +97,6 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * Da las gracias públicamente 🤓.
 * etc.
 
----
+Este proyecto se realizo gracias al trabajo base de: 
+[</br><img src="https://avatars2.githubusercontent.com/u/48934580?s=460&v=4" width="100px;"/><br /><sub><b>Fernando Antúnez</b></sub>](https://github.com/FJALCode)<br />[💻](https://github.com/FJALCode "Code") [📢](#talk-Meabed "Talks")
+
