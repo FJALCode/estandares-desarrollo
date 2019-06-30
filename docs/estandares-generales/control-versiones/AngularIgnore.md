@@ -1,5 +1,5 @@
 ## Archivos Ignorados
-Archivos basicos comunmente a ignorar en un proyecto de Angular
+Archivos basicos comunmente a ignorar en un proyecto de Angular 
 
 ```
 # node_modules
